@@ -38,3 +38,11 @@ INFO: Unsupported notification method: $/setTrace
 Aug 17, 2022 8:48:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2022.08.17 21:07:11 INFO  shutting down Metals
+2022.08.17 21:11:53 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/BlackDiamond/workspace/.metals/lsp.trace.json or /home/BlackDiamond/.cache/metals/lsp.trace.json
+2022.08.17 21:11:54 INFO  logging to file /home/BlackDiamond/workspace/.metals/metals.log
+2022.08.17 21:11:54 INFO  Started: Metals version 0.11.7-SNAPSHOT in workspace '/home/BlackDiamond/workspace' for client code-server 1.63.0.
+2022.08.17 21:11:55 INFO  time: initialize in 1.18s
+2022.08.17 21:11:56 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.17 21:11:56 WARN  Build server is not auto-connectable.
+2022.08.17 21:11:57 INFO  skipping build import with status 'Requested'
+2022.08.17 21:14:48 INFO  shutting down Metals
